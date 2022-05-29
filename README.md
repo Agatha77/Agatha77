@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
 <div align=center> 
   :unlock: SNS LIST :unlock:
  </div>
+ 
 <div align=center>
   <a href="https://velog.io/@yangosi" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
+  <a href="https://medium.com/@jaram1204" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=plastic&logo=Medium&logoColor=white"/></a>
 </div>
